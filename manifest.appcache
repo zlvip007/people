@@ -1,17 +1,18 @@
 CACHE MANIFEST
-# Revision 1401025279879
+# Revision 1404217921992
 
 CACHE:
-Jobs.html
+创新的生命力在于不满与反抗.html
 2014第二届中国天使投资人大会演讲.html
+Jobs.html
+Macworld2007.html
 index.html
 8小时演讲.html
-创新的生命力在于不满与反抗.html
+小米是我创办的最后一家公司.html
 张小龙.html
 我相信有巨大的机会在等着我们.html
-马化腾.html
-Macworld 2007.html
 雷军.html
+马化腾.html
 gitbook\app.js
 gitbook\fonts\anonymouspro\400.woff
 gitbook\fonts\anonymouspro\400i.woff
@@ -48,8 +49,8 @@ gitbook\jsrepl\sandbox.html
 gitbook\jsrepl\sandbox.js
 gitbook\print.css
 gitbook\style.css
-gitbook\plugins\gitbook-plugin-mixpanel\plugin.js
 gitbook\plugins\gitbook-plugin-mathjax\plugin.js
+gitbook\plugins\gitbook-plugin-mixpanel\plugin.js
 
 NETWORK:
 *
